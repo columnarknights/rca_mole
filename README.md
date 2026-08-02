@@ -105,6 +105,6 @@ The cost model determines how `revenue` is calculated as per:
     > **Definitive.**
 
 # Navigate
-- [`docs`](./docs/)
-- [`implementation`](./implementation)
-- [`test_data`](./test_data/)
+- [`docs`](./docs/) (contains documentation)
+- [`implementation`](./implementation) (contains source code)
+- [`test_data`](./test_data/) (contains test data + exploratory plots)
