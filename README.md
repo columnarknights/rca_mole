@@ -12,6 +12,7 @@
   - [Metric Dimensions](#metric-dimensions)
   - [Advertisement Cost Models](#advertisement-cost-models)
 - [Demo Solution Approach](#demo-solution-approach)
+- [Navigate](#navigate)
 
 ---
 
@@ -102,3 +103,8 @@ The cost model determines how `revenue` is calculated as per:
     > Obsolete.
 - [`docs/demo-solution-approach-2.md`](.//docs/demo-solution-approach-2.md)
     > **Definitive.**
+
+# Navigate
+- [`docs`](./docs/)
+- [`implementation`](./implementation)
+- [`test_data`](./test_data/)
